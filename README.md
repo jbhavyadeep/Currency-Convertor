@@ -17,6 +17,10 @@
 
 * API Integration: Fetch API
 
+* useCallback – Optimized functions for better performance.
+
+* useEffect – Dynamically updated the currency rate based on user preferences.
+
 ## Demo
 ![alt text](image.png)
 
