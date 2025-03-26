@@ -1,12 +1,38 @@
-# React + Vite
+# Currency Converter
+### A simple and efficient Currency Converter built with React.js, designed to fetch real-time exchange rates and provide seamless currency conversion.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
 
-Currently, two official plugins are available:
+* Live Currency Rates: Fetches real-time exchange rates using an API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Two-Way Conversion: Easily swap between currencies.
 
-## Expanding the ESLint configuration
+* Minimal & Responsive UI: Clean design with Tailwind CSS.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Optimized Performance: Built with Vite for fast bundling.
+
+## Tech Stack
+
+* Frontend: React + Vite, Tailwind CSS
+
+* API Integration: Fetch API
+
+## Demo
+![alt text](image.png)
+
+## Installation & Setup
+
+### Clone the repository
+```
+git clone https://github.com/yourusername/password-generator.git
+cd password-generator
+```
+### Install dependencies
+```
+npm install
+```
+### Run the development server
+```
+npm run dev
+```
+### Open http://localhost:5173 in your browser to see the app.
