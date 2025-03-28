@@ -28,8 +28,8 @@
 
 ### Clone the repository
 ```
-git clone https://github.com/yourusername/password-generator.git
-cd password-generator
+git clone https://github.com/jbhavyadeep/Currency-Convertor.git
+cd currencyConvertor
 ```
 ### Install dependencies
 ```
